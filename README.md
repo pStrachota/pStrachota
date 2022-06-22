@@ -20,14 +20,14 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pstrachota&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pstrachota" alt="pstrachota" /></a>
 
-# 📚 Selected repos:
+<!-- # 📚 Selected repos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pstrachota&repo=Kohonen-Self-Organizing-Maps-SOM-)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/pStrachota/SUDOKU_GAME_KOMPO_PROJECT](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-)))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pstrachota&repo=CONCURRENT_PROGRAMMING_PROJECT)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/pStrachota/SUDOKU_GAME_KOMPO_PROJECT](https://github.com/pStrachota/CONCURRENT_PROGRAMMING_PROJECT)))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pstrachota&repo=BOOK_RENTAL_POBI_PROJECT)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/pStrachota/SUDOKU_GAME_KOMPO_PROJECT](https://github.com/pStrachota/BOOK_RENTAL_POBI_PROJECT)))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pstrachota&repo=SUDOKU_GAME_KOMPO_PROJECT)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pStrachota/SUDOKU_GAME_KOMPO_PROJECT))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pstrachota&repo=SUDOKU_GAME_KOMPO_PROJECT)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/pStrachota/SUDOKU_GAME_KOMPO_PROJECT)) -->
 

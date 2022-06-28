@@ -6,7 +6,7 @@
 <h3 align="left">Currently I've managed to get into V semester at Lodz University of Technology (TUL).
   My specialization is infrastructure and web applications.
   I especially keen on learning backend such as Java or C#,
-  but some of my project also included basics of Javascript with HTML.
+  but some of my projects also included Python for data analysis.
   Like many of my colleagues, at the moments I'm trying my best 
   in preparing for the future job. 
   </h3>

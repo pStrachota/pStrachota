@@ -19,8 +19,8 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
 # 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstrachota&hide=cmake&langs_count=3&exclude_repo=XML-technologies)](https://github.com/pstrachota/XML-technologies)
-![](https://github-readme-stats.vercel.app/api?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)  <br/>
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pstrachota&hide=cmake&langs_count=3&exclude_repo=XML-technologies)](https://github.com/pstrachota/XML-technologies)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pstrachota&theme=default&hide_border=false)
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pstrachota" alt="pstrachota" /></a> -->
 

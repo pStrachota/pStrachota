@@ -2,23 +2,34 @@
 <h3 align="center">IT student from Poland</h3>
 
 [![](https://visitcount.itsvg.in/api?id=pstrachota&icon=0&color=1)](https://visitcount.itsvg.in)
-# 👨🏻‍🎓 About Me:
-<h3 align="left">Currently I've managed to get into V semester at Lodz University of Technology (TUL).
-  My specialization is infrastructure and web applications.
-  I especially keen on learning backend such as Java or C#,
-  but some of my projects also included Python for data analysis.
-  Like many of my colleagues, at the moments I'm trying my best 
-  in preparing for the future job. 
-  </h3>
-  
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+## 👨🏻‍🎓 About Me:
 
-# 📊 GitHub Stats:
+  Currently I've managed to get into VI semester at Applied Computer Science in Lodz University of Technology (TUL).
+  My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge
+  (mailny about object oriented paradigm) in library system application. The next step was to learn about 
+ [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
+ Another great achievement was learning the basics of building web applications in Java, using both the [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT) and [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) frameworks.
+  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a solid dose of front-end knowledge - including [mobile apps](https://github.com/pStrachota/YADA-MOBI).
+ 
+  
+  
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## :scroll: Cerfificates
+|Name| Issued By | Date Of Obtaining |
+|----|-----------|-------------------|
+|MS SQL Server|CRC Program|06.2022|
+|Optimization of SQL queries in practice|LSI Software|04.2022|
+
+## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pstrachota&hide=cmake&langs_count=3&exclude_repo=XML-technologies)](https://github.com/pstrachota/XML-technologies)
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=pstrachota&theme=default&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)  <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pstrachota&theme=default&hide_border=false)

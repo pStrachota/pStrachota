@@ -4,15 +4,13 @@
 [![](https://visitcount.itsvg.in/api?id=pstrachota&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 👨🏻‍🎓 About Me:
 
-  Currently I've managed to get into VI semester at Applied Computer Science in Lodz University of Technology (TUL).
+  #### Currently I've managed to get into VI semester at Applied Computer Science in Lodz University of Technology (TUL).
   
-  My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge
-  (mailny about object oriented paradigm) in library system application. The next step was to learn about 
- [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
+  #### My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mailny about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
  
- Another great achievement was learning the basics of building web applications in Java, using both the [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT) and [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) frameworks.
+ #### Another great achievement was learning the basics of building web applications in Java, using both the [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT) and [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) frameworks.
  
-  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a solid dose of front-end knowledge - including [mobile apps](https://github.com/pStrachota/YADA-MOBI).
+####  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a solid dose of front-end knowledge - including [mobile apps](https://github.com/pStrachota/YADA-MOBI).
  
   
   

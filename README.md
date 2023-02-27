@@ -10,7 +10,7 @@
  
  #### Another great achievement was learning the basics of building web applications in Java, using both the [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT) and [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) frameworks.
  
-####  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a solid dose of front-end knowledge - including [mobile apps](https://github.com/pStrachota/YADA-MOBI).
+####  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a [solid dose of front-end knowledge](https://github.com/pStrachota/REACT-LIBRARY-FRONT-END) - also with [mobile apps](https://github.com/pStrachota/YADA-MOBI).
  
   
   

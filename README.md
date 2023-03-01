@@ -6,7 +6,7 @@
 
   #### Currently I've managed to get into VI semester at Applied Computer Science in Lodz University of Technology (TUL).
   
-  #### My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mailny about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
+  #### My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mainly about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
  
  #### Another great achievement was learning the basics of building web applications in Java, using both the [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT) and [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) frameworks.
  

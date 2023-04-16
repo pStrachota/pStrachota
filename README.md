@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=pstrachota&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 👨🏻‍🎓 About Me:
 
-  #### Currently I've managed to get into VI semester at Applied Computer Science in Lodz University of Technology (TUL).
+  #### I am currently in the VI semester at Applied Computer Science in Lodz University of Technology (TUL).
   
   #### My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mainly about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
  

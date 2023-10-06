@@ -4,13 +4,13 @@
 [![](https://visitcount.itsvg.in/api?id=pstrachota&icon=0&color=1)](https://visitcount.itsvg.in)
 ## 👨🏻‍🎓 About Me:
 
-  #### I am currently in the VI semester of Applied Computer Science in Lodz University of Technology (TUL).
+   I am currently in the VI semester of Applied Computer Science in Lodz University of Technology (TUL).
   
-  #### My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mainly about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
+   My university programming adventure started with C++ and [my first bigger project](https://github.com/pStrachota/Book_rental_POBI_project) sums up gained knowledge (mainly about object oriented paradigm) in library system application. The next step was to learn about [concurrent programming and layered architecture](https://github.com/pStrachota/Concurrent_programming_project) in C#. 
  
- #### Another great achievement was learning the basics of building web applications backend in Java and Typescript, using [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT), [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) and [Nest.js](https://github.com/pStrachota/PRODUCT-STORE-NEST.JS). 
+  Another great achievement was learning the basics of building web applications backend in Java and Typescript, using [Spring](https://github.com/pStrachota/AUCTIONS_SPRING_BOOT_PROJECT), [Jakarta EE](https://github.com/pStrachota/LIBRARY-JAKARTA-EE-PROJECT) and [Nest.js](https://github.com/pStrachota/PRODUCT-STORE-NEST.JS). 
  
-####  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a [solid dose of front-end knowledge](https://github.com/pStrachota/E-COMMERCE-NEXT.JS) - also with [mobile apps](https://github.com/pStrachota/YADA-MOBI).
+  During my journey, I also learned about relational and [non-relational databases](https://github.com/pStrachota/NBD), [cryptography](https://github.com/pStrachota/DES_KRYPTO_PROJECT), linux operation system, [basics of artificial intelligence in Python](https://github.com/pStrachota/Kohonen-Self-Organizing-Maps-SOM-) and a [solid dose of front-end knowledge](https://github.com/pStrachota/E-COMMERCE-NEXT.JS) - also with [mobile apps](https://github.com/pStrachota/YADA-MOBI).
  
   
   
